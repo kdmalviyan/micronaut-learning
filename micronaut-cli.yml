@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.kd.example
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, cache-caffeine, config-kubernetes, data, data-jpa, discovery-kubernetes, email-javamail, email-template, gradle, hibernate-validator, http-client, jackson-databind, java, java-application, jdbc-hikari, jib, junit, kubernetes, lombok, management, micronaut-build, mockito, multi-tenancy, mysql, netty-server, openapi, properties, readme, security, security-annotations, shade, slf4j-simple, swagger-ui, testcontainers]
